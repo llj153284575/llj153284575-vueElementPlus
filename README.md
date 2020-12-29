@@ -1,4 +1,4 @@
-# mydemo
+# admin
 
 ## Project setup
 ```
